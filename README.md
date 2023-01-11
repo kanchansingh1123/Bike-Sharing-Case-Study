@@ -67,4 +67,4 @@ Give credit here.
 
 
 ## Contact
-Created by [@kanchansingh1123] - feel free to contact me!
+Created by Kanchan Singh [@kanchansingh1123](https://github.com/kanchansingh1123) - feel free to contact me!
